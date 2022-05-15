@@ -1,4 +1,4 @@
-# Crypto Joint Savings Account
+# Ethereum Joint Savings Account
 
 # About
 This smart contract is meant to host a joint savings account on an ethereum-compatible blockchain.
